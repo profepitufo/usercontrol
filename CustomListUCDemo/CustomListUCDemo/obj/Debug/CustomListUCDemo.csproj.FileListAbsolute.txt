@@ -1,0 +1,11 @@
+C:\Testing\CustomListUCDemo\CustomListUCDemo\bin\Debug\CustomListUCDemo.exe.config
+C:\Testing\CustomListUCDemo\CustomListUCDemo\bin\Debug\CustomListUCDemo.exe
+C:\Testing\CustomListUCDemo\CustomListUCDemo\bin\Debug\CustomListUCDemo.pdb
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.csprojAssemblyReference.cache
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.FormCustomListUC.resources
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.Properties.Resources.resources
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.csproj.GenerateResource.cache
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.csproj.CoreCompileInputs.cache
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.exe
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.pdb
+C:\Testing\CustomListUCDemo\CustomListUCDemo\obj\Debug\CustomListUCDemo.UserControls.ListItemUC.resources
